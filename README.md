@@ -1,5 +1,7 @@
 # Bondesjakk
 
+This was my first ever JavaScript Project.
+
 Bondesjakk is the Norwegian name for Tic-Tac-Toe.
 This game is for two players on one cumputer.
 It was made in Vanilla JavaScript as my first JS project.
